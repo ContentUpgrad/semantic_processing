@@ -6,7 +6,7 @@
 - What is where?
 
 ### How to download files?
-![images/image1.png]
+![](images/image1.png)
 Click on Code button and then click on Download ZIP
 OR
 Use `git clone https://github.com/ContentUpgrad/intro_to_neural_networks.git` command on your terminal if git is installed in your machine. 
