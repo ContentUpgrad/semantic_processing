@@ -38,7 +38,7 @@ You will find the following files in the code folder of Distributional Semantics
 There are no data files required for this session.
 
 #### Topic Modelling
-You will find the following files in the code folder of Distributional Semantics
+You will find the following files in the code folder of Distributional Semantics folder
 ![](images/image5.png)
 The data files required can be found [here](https://drive.google.com/drive/u/0/folders/1umS1MgUXyra3KVF-6FsN8krHQ31lXhlX)
 
