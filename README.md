@@ -43,5 +43,8 @@ You will find the following files in the code folder of Distributional Semantics
 The data files required can be found [here](https://drive.google.com/drive/u/0/folders/1umS1MgUXyra3KVF-6FsN8krHQ31lXhlX)
 
 
-
+#### Authors
+Tejaswini Allikanti
+Jaidev Deshpande
+Gunnvant Saini
 
