@@ -44,7 +44,5 @@ The data files required can be found [here](https://drive.google.com/drive/u/0/f
 
 
 #### Authors
-Tejaswini Allikanti
-Jaidev Deshpande
-Gunnvant Saini
+Tejaswini Allikanti, Jaidev Deshpande and Gunnvant Saini
 
